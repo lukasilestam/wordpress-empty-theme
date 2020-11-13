@@ -1,3 +1,3 @@
 <?php
 
-wp_die("Hello! ✏️");
+wp_die("🤙");
